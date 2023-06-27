@@ -1,9 +1,8 @@
-<img align="right" height=500px src="https://www.maxpixel.net/static/photo/2x/Internet-Technology-Networking-Network-Data-4851079.jpg">
-
 <p align="center">
     <img height=300px src="https://miro.medium.com/max/1200/1*mgXvzNcwfpnBawI6XTkVRg.png">
     <img height=300px src="https://bkai.ai/wp-content/uploads/2021/07/Machine-Learning-Algorithms-Thuat-toan-Machine-Learning.png">
 </p>
+<img align="right" height=500px src="https://www.maxpixel.net/static/photo/2x/Internet-Technology-Networking-Network-Data-4851079.jpg">
 
 
 <!--
