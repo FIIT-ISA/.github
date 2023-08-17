@@ -1,5 +1,3 @@
-#  ISA_I course 
-
 ### ISA_I course @ FIIT STU in Bratislava
 
 **Prerequisite Courses:** Knowledge in the course [Intelligent Data Analysis (IAU_B)](https://github.com/FIIT-IAU/IAU-course) at the level of a graduate of the Bachelor's study program in Computer Science is assumed.
