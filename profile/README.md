@@ -1,4 +1,4 @@
-### ISA_I
+# ISA_I
 
 **Prerequisite Courses:** Knowledge in the course **[Intelligent Data Analysis (IAU_B) @ FIIT STU](https://github.com/FIIT-IAU/IAU-course)** at the level of a graduate of the Bachelor's study program in Computer Science is assumed.
 
