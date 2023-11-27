@@ -13,7 +13,7 @@
 
 - AGGARWAL, C.C., 2016. [Recommender Systems](https://link.springer.com/book/10.1007/978-3-319-29659-3). Springer. ISBN 978-3-319-29657-9.  
 
-- NGUYEN, G., 2022. [Introduction to Data Science](https://elvira.fiit.stuba.sk/library/pdf-viewer/765297eb-be49-4013-857e-ad3438726942). The Edition of University Textbooks on Informatics and Information Technologies. Spektrum STU Publishing, ISBN 978-80-227-5193-3. Available at FIIT STU e-library [ ELVIRA ](https://elvira.fiit.stuba.sk/) with AIS access.
+- NGUYEN, G., 2022. [Introduction to Data Science](https://elvira.fiit.stuba.sk). The Edition of University Textbooks on Informatics and Information Technologies. Spektrum STU Publishing, ISBN 978-80-227-5193-3. Available at FIIT STU e-library [ ELVIRA ](https://elvira.fiit.stuba.sk/) with AIS access.
 
 <!--
 **Here are some ideas to get you started:**
