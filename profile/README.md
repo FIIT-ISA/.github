@@ -1,4 +1,4 @@
-#  Intelligent System Applications - Aplikácie inteligentných systémov 
+#  Intelligent System Applications / Aplikácie inteligentných systémov 
 
 ### ISA_I course @ FIIT STU in Bratislava - 2024/2025
 
