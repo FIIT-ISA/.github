@@ -4,9 +4,6 @@
 
 By completing the course, students will gain knowledge about the development and deployment of real-world intelligent system applications. Through lectures, exercises and projects, students will cover the theory, practical knowledge and skills that underpin **machine learning** in terms of building **intelligent system applications** with respect to **data protection**. The educational outcomes will provide students with the opportunity to enhance their understanding of machine learning specifics in application domains like e-commerce, monitoring systems, and remote sensing. Working on individual projects will encourage students to come up with their own ideas for implementing applications of intelligent systems using machine learning in both the **development** and **deployment** phases.
 
-### Prerequisite Courses / Podmieňujúce predmety
-Knowledge in the course **[Intelligent Data Analysis (IAU_B) @ FIIT STU](https://github.com/FIIT-IAU/IAU-course)** at the level of a graduate of the Bachelor's study program in Computer Science is assumed.
-
 <p align="center">
     <img height=300px src="https://bkai.ai/wp-content/uploads/2021/07/Machine-Learning-Algorithms-Thuat-toan-Machine-Learning.png">
     <img height=300px src="https://miro.medium.com/max/1200/1*mgXvzNcwfpnBawI6XTkVRg.png">
@@ -19,6 +16,9 @@ Knowledge in the course **[Intelligent Data Analysis (IAU_B) @ FIIT STU](https:/
 - AGGARWAL, C.C., 2016. [Recommender Systems](https://link.springer.com/book/10.1007/978-3-319-29659-3). Springer. ISBN 978-3-319-29657-9.  
 
 - NGUYEN, G., 2022. [Introduction to Data Science](https://elvira.fiit.stuba.sk). The Edition of University Textbooks on Informatics and Information Technologies. Spektrum STU Publishing, ISBN 978-80-227-5193-3. Available at FIIT STU e-library [ ELVIRA ](https://elvira.fiit.stuba.sk/) with AIS access.
+
+### Prerequisite Courses / Podmieňujúce predmety
+Knowledge in the course **[Intelligent Data Analysis (IAU_B) @ FIIT STU](https://github.com/FIIT-IAU/IAU-course)** at the level of a graduate of the Bachelor's study program in Computer Science is assumed.
 
 <!--
 **Here are some ideas to get you started:**
