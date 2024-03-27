@@ -6,7 +6,7 @@ By completing the course, students will gain knowledge about the development and
 
 <p align="center">
     <img height=300px src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*-u3RLECZtdFPpbJe.png">
-    <img height=400px src="https://cdn.idc.com/resource-center/RESOURCES/IMAGES/chart.svg?guid=3d27ebbc-bac6-4e3c-aaf5-dc22cbd380e5">
+    <img height=350px src="https://cdn.idc.com/resource-center/RESOURCES/IMAGES/chart.svg?guid=3d27ebbc-bac6-4e3c-aaf5-dc22cbd380e5">
 <!--
     <img height=170px src="https://www.informatica.com/content/dam/informatica-com/en/blogs/uploads/2021/blogs/b09/b09-data-security-vs-data-privacy-whats-the-difference.jpg">
     <img height=300px src="https://bkai.ai/wp-content/uploads/2021/07/Machine-Learning-Algorithms-Thuat-toan-Machine-Learning.png">
