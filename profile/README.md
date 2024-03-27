@@ -5,9 +5,9 @@
 By completing the course, students will gain knowledge about the development and deployment of real-world intelligent system applications. Through lectures, exercises and projects, students will cover the theory, practical knowledge and skills that underpin **applied machine learning** in terms of building **intelligent system applications** with respect to **data protection**. The educational outcomes will provide students with the opportunity to enhance their understanding of machine learning specifics in application domains like e-commerce, monitoring systems, and remote sensing. Working on individual projects will encourage students to come up with their own ideas for implementing intelligent applications in both the **development** and **deployment** phases.
 
 <p align="center">
-    <img height=200px src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*-u3RLECZtdFPpbJe.png">
+    <img height=250px src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*-u3RLECZtdFPpbJe.png">
     <img height=300px src="https://cdn.idc.com/resource-center/RESOURCES/IMAGES/chart.svg?guid=3d27ebbc-bac6-4e3c-aaf5-dc22cbd380e5">
-    <img height=150px src="https://www.informatica.com/content/dam/informatica-com/en/blogs/uploads/2021/blogs/b09/b09-data-security-vs-data-privacy-whats-the-difference.jpg">
+    <img height=170px src="https://www.informatica.com/content/dam/informatica-com/en/blogs/uploads/2021/blogs/b09/b09-data-security-vs-data-privacy-whats-the-difference.jpg">
 <!--
     <img height=300px src="https://bkai.ai/wp-content/uploads/2021/07/Machine-Learning-Algorithms-Thuat-toan-Machine-Learning.png">
     <img height=300px src="https://miro.medium.com/max/1200/1*mgXvzNcwfpnBawI6XTkVRg.png">
