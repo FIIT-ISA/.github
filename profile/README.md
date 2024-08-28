@@ -5,7 +5,7 @@
 By completing the course, students will gain knowledge about the development and deployment of real-world intelligent system applications. Through lectures, exercises and projects, students will cover the theory, practical knowledge and skills that underpin **applied machine learning** in terms of building **intelligent system applications** with respect to **data protection**. The educational outcomes will provide students with the opportunity to enhance their understanding of machine learning specifics in application domains like e-commerce, monitoring systems, and remote sensing. Working on individual projects will encourage students to come up with their own ideas for implementing intelligent applications in both the **development** and **deployment** phases.
 
 <p align="center">
-    <img height=350px src="https://cdn.idc.com/resource-center/RESOURCES/IMAGES/chart.svg?guid=3d27ebbc-bac6-4e3c-aaf5-dc22cbd380e5">
+    <img height=350px src="https://media.licdn.com/dms/image/v2/D5622AQF1tqTTWlkCpg/feedshare-shrink_800/feedshare-shrink_800/0/1716042935125?e=1727913600&v=beta&t=BQxBxQWqmLAaC6PIpdrUrQP5IOCv9lCTM6aeDGHzsiw">
 </p>
 
 
