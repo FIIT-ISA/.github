@@ -1,6 +1,10 @@
 #  Intelligent System Applications (ISA_I)
 - Aplikácie inteligentných systémov 
 
+<p align="center">
+    <img height=450px src="https://github.com/FIIT-ISA/ISA-course/blob/main/isa.png">
+</p>
+
 ## Foundations of Generative AI and Applied Machine Learning
 - Neural Recommender Systems
 - Machine Learning Systems
@@ -17,10 +21,6 @@ By completing the course, students will gain knowledge about the development and
 ### [Exercises / Cvičenia](https://github.com/FIIT-ISA/ISA-course/tree/main/exercises) 
 
 ### [Course conditions / Podmienky na absolvovanie predmetu](https://github.com/FIIT-ISA/ISA-course/blob/main/condition.md)
-
-<p align="center">
-    <img height=450px src="https://github.com/FIIT-ISA/ISA-course/blob/main/isa.png">
-</p>
 
 ### Foundation of Generative AI and Applied Machine Learning
 - Data (collection, storage, analysis, recommendation) and generative foundation of models
