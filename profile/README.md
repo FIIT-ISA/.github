@@ -2,7 +2,7 @@
 - Aplikácie inteligentných systémov 
 
 <p align="center">
-    <img height=450px src="https://github.com/FIIT-ISA/ISA-course/blob/main/isa.png">
+    <img height=440px width=700px src="https://github.com/FIIT-ISA/ISA-course/blob/main/isa.png">
 </p>
 
 ## Foundations of Generative AI and Applied Machine Learning
